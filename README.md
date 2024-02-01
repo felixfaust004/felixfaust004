@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixfaust004
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Love2D
+- 👀 I’m interested in Web Development
+- 🌱 Proficient in HTML5, CCS3, JS
 
 
 <!---
