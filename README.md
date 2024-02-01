@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felixfaust004
+- 👋 Hi, I’m Sanskar Yadav aka @felixfaust004
 - 👀 I’m interested in Web Development
 - 🌱 Proficient in HTML5, CCS3, JS
 
